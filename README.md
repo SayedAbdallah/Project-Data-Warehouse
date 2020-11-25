@@ -13,7 +13,7 @@ In this project, we will do the following
 ### Steps to run the project
 1- run RUN_Project.ipynb file 
 this file do the following
-    1- run create_tables.py file to drop all tables if they exists then create them again
-    2- run etl.py file to start ETL process to copy data from S3 to staging tables then insert data into final tables 
+   1- run create_tables.py file to drop all tables if they exists then create them again
+   2- run etl.py file to start ETL process to copy data from S3 to staging tables then insert data into final tables 
        from staging tables
 
